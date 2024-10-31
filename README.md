@@ -1,27 +1,22 @@
-# JSConfArmenia-2018 / You Don't Know Node.js EventLoop
-Source code and slide of JavaScript Conference Armenia 2018
+# `iJS Conference 2024 | Munich`
+Topic: **You Don’t Know Node.js EventLoop**
+Date: Wednesday, November 13 2024 | 11:45 - 12:45
 
-----------
-## Introduction
+[My article about this topic in medium.](https://nairihar.medium.com/you-dont-know-node-js-eventloop-8ee16831767)
+[The link to my talk is on javascript-conference.com.](https://javascript-conference.com/node-js/nodejs-eventloop-javascript/)
 
-> - Node.js EventLoop, more detailed about the magic of libuv
-> - Deep dive into EventLoop queues
-> - About working style of the nextTick, Promise, setTimeout, setImmediate and all other async I/O processes
+![](https://topentol.sirv.com/ijs-2024-munich/wallpaper.jpg)
 
-**Slide:** https://slides.com/nairihar/js-conf-armenia-2018#/
+---
 
-## Used Sources
+## Slide
+[**Go to the slide**](???)
 
-> - https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
-> - https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/
-> - https://www.youtube.com/watch?v=PNa9OMajw9w
-> - https://www.youtube.com/watch?v=P9csgxBgaZ8&t=
-> - https://jsblog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810
-> - http://docs.libuv.org/en/v1.x/design.html
-> - https://github.com/libuv
-> - https://github.com/nodejs/node
-> - https://stackoverflow.com/questions/10680601/nodejs-event-loop
-> - https://github.com/request/request/issues/2491
-> - https://github.com/nodejs/node/blob/master/src/node_options.h#L119
-> - https://github.com/nodejs/node/blob/master/lib/timers.js#L427
-> - https://www.youtube.com/watch?v=Yb9rnP2MhYc
+---
+
+Sincerely,
+Nairi Harutyunyan
+
+[**nairi.dev**](https://nairi.dev/)
+
+[**Medium**](https://nairihar.medium.com/) | [**Linkedin**](https://linkedin.com/in/nairihar) | [**@javascript newsletter**](https://t.me/javascript)
