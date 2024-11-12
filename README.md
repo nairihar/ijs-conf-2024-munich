@@ -10,7 +10,7 @@ Date: Wednesday, November 13 2024 | 11:45 - 12:45
 ---
 
 ## Slide
-[**Go to the slide**](???)
+[**Go to the slide**](https://github.com/nairihar/ijs-conf-2024-munich/blob/master/Slide.pdf)
 
 ---
 
